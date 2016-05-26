@@ -1,0 +1,28 @@
+.img-margin{
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.box {
+    height:auto;
+    background-color: #D1D1D1;
+    margin-bottom: 10px;
+}
+.box:hover {
+    -webkit-box-shadow: -2px 9px 40px 10px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: -2px 9px 40px 10px rgba(0, 0, 0, 0.75);
+    box-shadow: -2px 9px 40px 10px rgba(0, 0, 0, 0.75);
+}
+.img-responsive {
+    width: 100%;
+}
+.text-area {
+    padding: 5px;
+    text-align: center;
+}
+/*body {*/
+  /*background: url('Movies.jpg');*/
+/*}*/
+
+/*form {*/
+  /*background: url('form_bg.jpg');*/
+/*}*/
